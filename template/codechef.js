@@ -23,6 +23,10 @@ function main() {
   var t = parseInt(readLine());
 
   while (t--) {
-    // Your Logic goes here
+    solve();
   }
+}
+
+function solve() {
+  // Your Logic goes here
 }
