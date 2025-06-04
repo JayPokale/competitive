@@ -1,0 +1,9 @@
+NIT Trichy: DA
+NIT Surathkal: DS
+MNIT Jaipur: CS
+IIEST Shibpur: CS
+NIT Durgapur: AI
+NIT Hamirpur: AI
+NIT Jamshedpur: DS
+NIT Uttarakhand: AI
+IIIT Pune: CS
